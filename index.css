@@ -84,6 +84,7 @@
     border-radius: 10px;
 }
 
+
 .card-title, .card-text{
     margin-bottom: 10px;
 }
@@ -105,7 +106,3 @@
 .copyright{
     color: white;
 }
-
-
-
-
